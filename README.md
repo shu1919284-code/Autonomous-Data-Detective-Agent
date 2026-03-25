@@ -169,7 +169,7 @@ All with **PDF & Excel export**, **multi-file support**, **token tracking**, and
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/sk191/Autonomous-Data-Detective.git
+git clone https://github.com/shu1919284-code/Autonomous-Data-Detective.git
 cd Autonomous-Data-Detective
 
 # 2. Create virtual environment
@@ -197,7 +197,7 @@ The app opens at **http://localhost:8501**
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/sk191/Autonomous-Data-Detective.git
+git clone https://github.com/shu1919284-code/Autonomous-Data-Detective.git
 cd Autonomous-Data-Detective
 ```
 
@@ -531,6 +531,8 @@ You are free to:
 
 ## 🙏 Acknowledgments
 
+> 🍴 This is a fork of [sk191/Autonomous-Data-Detective](https://github.com/sk191/Autonomous-Data-Detective). Full credit to the original author for the core architecture and implementation.
+
 Built with ❤️ using:
 - [LangChain](https://github.com/langchain-ai/langchain) — LLM framework
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Agentic orchestration
@@ -544,9 +546,11 @@ Built with ❤️ using:
 
 ## 📞 Support & Feedback
 
-- **Issues**: [GitHub Issues](https://github.com/sk191/Autonomous-Data-Detective/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/sk191/Autonomous-Data-Detective/discussions)
-- **Email**: [Contact](mailto:your-email@example.com)
+- **GitHub**: [shu1919284-code](https://github.com/shu1919284-code)
+- **Issues**: [GitHub Issues](https://github.com/shu1919284-code/Autonomous-Data-Detective/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/shu1919284-code/Autonomous-Data-Detective/discussions)
+- **Email**: [shu1919284@gmail.com](mailto:shu1919284@gmail.com)
+- **LinkedIn**: [Shubham Kumar](https://www.linkedin.com/in/shubham-kumar-12a3233b9)
 
 ---
 
@@ -554,7 +558,7 @@ Built with ❤️ using:
 
 **[⬆ Back to top](#-autonomous-data-detective-agent)**
 
-Made with 🧠 AI, 💻 Code, and ☕ Coffee
+Forked and maintained by **[Shubham Kumar](https://www.linkedin.com/in/shubham-kumar-12a3233b9)**  
+Original project by **[sk191](https://github.com/sk191/Autonomous-Data-Detective)**
 
 </div>
-
